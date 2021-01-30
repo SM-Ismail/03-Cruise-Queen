@@ -122,3 +122,16 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+#booking-confirm{
+    display: none;
+    text-align: center;
+    color:cadetblue;
+    height: 550px;
+}
+.btn-payment{
+    margin-top: 250px;
+}
+#booking-nai{
+    display: none;
+    color: red;
+}
